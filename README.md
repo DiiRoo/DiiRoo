@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiRoo
+- 👋 Hi, I’m @DiiRoo
 - 👀 I’m interested in penetration testing web application
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on
